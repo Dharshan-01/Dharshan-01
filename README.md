@@ -3,7 +3,7 @@
 <h3 align="center">🤖 AI/ML Developer | Generative AI | Cloud</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Building+AI-powered+solutions;Generative+AI+%7C+Machine+Learning+%7C+Cloud;Turning+ideas+into+real-world+applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=650&lines=Building+AI-powered+solutions;Generative+AI+%7C+Machine+Learning+%7C+Cloud;Turning+ideas+into+real-world+applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,11 +21,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dharshan-01&label=Profile%20Views&color=2EA043&style=flat" />
-  <img src="https://img.shields.io/github/followers/Dharshan-01?label=Followers&style=social" />
-</p>
-
 ---
 
 ## 🧠 About Me
@@ -40,7 +35,10 @@ class AIEngineer:
             "Machine Learning",
             "Cloud"
         ]
-        self.currently_learning = "Agentic AI & MLOps"
+        self.currently_learning = [
+            "Agentic AI",
+            "MLOps"
+        ]
         self.work = "Freelancing @ Avlance"
 
     def say_hi(self):
@@ -49,25 +47,26 @@ class AIEngineer:
 
 * 🔭 Currently working on **AI/ML and Generative AI projects**
 * 💼 Freelancing @ **Avlance**
-* 🌱 Exploring **Generative AI, Agentic AI, MLOps and Cloud**
-* 🎯 Interested in **AI/ML, Generative AI and Software Engineering opportunities**
+* 🌱 Currently exploring **Generative AI, Agentic AI, MLOps and Cloud**
+* 🎯 Interested in **AI/ML, Generative AI and Software Engineering**
 * 📫 Reach me at **[dharshan.dh1212@gmail.com](mailto:dharshan.dh1212@gmail.com)**
-* 🌐 Check out my **[Portfolio](https://dharshnakumar-portfolio.vercel.app)**
+* 🌐 Portfolio: **[dharshnakumar-portfolio.vercel.app](https://dharshnakumar-portfolio.vercel.app)**
 
 ---
 
 ## 💼 Experience
 
-### Freelancing @ Avlance
+### 💻 Freelancing @ Avlance
 
 Working on real-world software and AI-driven solutions while gaining hands-on experience in development, problem solving, and client-focused project delivery.
 
-### IT Intern — Lennox India Technology Centre (LITC)
+### 🏢 IT Intern — Lennox India Technology Centre (LITC)
 
 * Worked extensively with **Microsoft Azure** through hands-on technical tasks.
 * Explored **Azure Machine Learning** and cloud-based ML workflows.
 * Worked on practical IT and cloud-related assignments.
-* Presented weekly technical progress and completed a final presentation to IT leadership.
+* Presented weekly technical progress and technical learnings.
+* Completed a final presentation to the **IT Leadership Team**.
 * Gained experience working in a professional corporate environment.
 
 ---
@@ -96,8 +95,9 @@ Working on real-world software and AI-driven solutions while gaining hands-on ex
 ### 🧠 Generative AI
 
 <p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/LLM%20Applications-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
@@ -127,21 +127,21 @@ Working on real-world software and AI-driven solutions while gaining hands-on ex
 <tr>
 <td width="50%">
 
-### 🚨 Disaster Management System
+<h3>🚨 Disaster Management System</h3>
 
 AI-powered disaster monitoring and prediction system designed to analyze environmental information and assist with early disaster detection.
 
-`Python` `Machine Learning` `AI`
+<b>Tech:</b> Python • Machine Learning • AI
 
 </td>
 
 <td width="50%">
 
-### 🤖 Magic Data Assistant
+<h3>🤖 Magic Data Assistant</h3>
 
-AI-powered data assistant built using LangGraph that enables users to interact with and analyze data using natural language.
+AI-powered data assistant built with LangGraph that enables users to interact with and analyze data using natural language.
 
-`Python` `LangGraph` `Generative AI`
+<b>Tech:</b> Python • LangGraph • Generative AI
 
 </td>
 </tr>
@@ -149,21 +149,21 @@ AI-powered data assistant built using LangGraph that enables users to interact w
 <tr>
 <td width="50%">
 
-### 🎓 Student-Teacher Dashboard
+<h3>🎓 Student-Teacher Dashboard</h3>
 
 AI-powered classroom feedback platform designed to help teachers understand student engagement and identify learning-related issues.
 
-`AI` `Python` `Web Development`
+<b>Tech:</b> AI • Python • Web Development
 
 </td>
 
 <td width="50%">
 
-### 📄 Smart Resume Builder
+<h3>📄 Smart Resume Builder</h3>
 
 A web-based application designed to help users create structured and professional resumes.
 
-`HTML` `CSS` `JavaScript`
+<b>Tech:</b> HTML • CSS • JavaScript
 
 </td>
 </tr>
@@ -171,28 +171,22 @@ A web-based application designed to help users create structured and professiona
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharshan-01&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharshan-01&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharshan-01&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharshan-01&theme=react-dark&hide_border=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharshan-01&theme=react-dark&hide_border=true&area=true" width="95%" />
 </p>
 
 ---
 
-## 🏆 Coding & Learning
+## 📌 GitHub Profile
 
 <p align="center">
-  <a href="https://www.hackerrank.com">
-    <img src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+  <a href="https://github.com/Dharshan-01">
+    <img src="https://img.shields.io/github/followers/Dharshan-01?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/Dharshan-01?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -201,10 +195,21 @@ A web-based application designed to help users create structured and professiona
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dharshna-kumar-k-s">LinkedIn</a> •
-  <a href="https://dharshnakumar-portfolio.vercel.app">Portfolio</a> •
-  <a href="mailto:dharshan.dh1212@gmail.com">Email</a> •
-  <a href="https://github.com/Dharshan-01">GitHub</a>
+  <a href="https://www.linkedin.com/in/dharshna-kumar-k-s">
+    LinkedIn
+  </a>
+  •
+  <a href="https://dharshnakumar-portfolio.vercel.app">
+    Portfolio
+  </a>
+  •
+  <a href="mailto:dharshan.dh1212@gmail.com">
+    Email
+  </a>
+  •
+  <a href="https://github.com/Dharshan-01">
+    GitHub
+  </a>
 </p>
 
 <p align="center">
