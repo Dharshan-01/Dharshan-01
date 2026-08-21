@@ -3,7 +3,7 @@
 <h3 align="center">🤖 AI/ML Developer | Generative AI | Cloud</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=650&lines=Building+AI-powered+solutions;Generative+AI+%7C+Machine+Learning+%7C+Cloud;Turning+ideas+into+real-world+applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=700&lines=Building+AI-powered+solutions;Generative+AI+%7C+Machine+Learning+%7C+Cloud;Turning+ideas+into+real-world+applications;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,6 +19,11 @@
   <a href="https://github.com/Dharshan-01">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dharshan-01&label=Profile%20Views&color=2EA043&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Dharshan-01?label=Followers&style=flat-square&logo=github" />
 </p>
 
 ---
@@ -43,12 +48,16 @@ class AIEngineer:
 
     def say_hi(self):
         print("Building intelligent solutions to real-world problems!")
+
+me = AIEngineer()
+me.say_hi()
 ```
 
 * 🔭 Currently working on **AI/ML and Generative AI projects**
 * 💼 Freelancing @ **Avlance**
-* 🌱 Currently exploring **Generative AI, Agentic AI, MLOps and Cloud**
-* 🎯 Interested in **AI/ML, Generative AI and Software Engineering**
+* 🌱 Exploring **Generative AI, Agentic AI, MLOps and Cloud**
+* 🤖 Interested in building **AI-powered real-world applications**
+* 🎯 Open to **AI/ML, Generative AI and Software Engineering opportunities**
 * 📫 Reach me at **[dharshan.dh1212@gmail.com](mailto:dharshan.dh1212@gmail.com)**
 * 🌐 Portfolio: **[dharshnakumar-portfolio.vercel.app](https://dharshnakumar-portfolio.vercel.app)**
 
@@ -56,7 +65,7 @@ class AIEngineer:
 
 ## 💼 Experience
 
-### 💻 Freelancing @ Avlance
+### 🚀 Freelancing @ Avlance
 
 Working on real-world software and AI-driven solutions while gaining hands-on experience in development, problem solving, and client-focused project delivery.
 
@@ -65,9 +74,9 @@ Working on real-world software and AI-driven solutions while gaining hands-on ex
 * Worked extensively with **Microsoft Azure** through hands-on technical tasks.
 * Explored **Azure Machine Learning** and cloud-based ML workflows.
 * Worked on practical IT and cloud-related assignments.
-* Presented weekly technical progress and technical learnings.
+* Delivered weekly technical presentations and progress reviews.
 * Completed a final presentation to the **IT Leadership Team**.
-* Gained experience working in a professional corporate environment.
+* Gained hands-on experience with professional corporate work culture.
 
 ---
 
@@ -131,7 +140,14 @@ Working on real-world software and AI-driven solutions while gaining hands-on ex
 
 AI-powered disaster monitoring and prediction system designed to analyze environmental information and assist with early disaster detection.
 
-<b>Tech:</b> Python • Machine Learning • AI
+<b>Tech:</b><br>
+Python • Machine Learning • AI
+
+<br>
+
+<a href="https://github.com/Dharshan-01/Disaster-Management-System">
+View Project →
+</a>
 
 </td>
 
@@ -141,7 +157,14 @@ AI-powered disaster monitoring and prediction system designed to analyze environ
 
 AI-powered data assistant built with LangGraph that enables users to interact with and analyze data using natural language.
 
-<b>Tech:</b> Python • LangGraph • Generative AI
+<b>Tech:</b><br>
+Python • LangGraph • Generative AI
+
+<br>
+
+<a href="https://github.com/Dharshan-01/magic-data-assistant---langgraph">
+View Project →
+</a>
 
 </td>
 </tr>
@@ -153,7 +176,14 @@ AI-powered data assistant built with LangGraph that enables users to interact wi
 
 AI-powered classroom feedback platform designed to help teachers understand student engagement and identify learning-related issues.
 
-<b>Tech:</b> AI • Python • Web Development
+<b>Tech:</b><br>
+AI • Python • Web Development
+
+<br>
+
+<a href="https://github.com/Dharshan-01/Studetn-Teacher-dashboard">
+View Project →
+</a>
 
 </td>
 
@@ -163,7 +193,14 @@ AI-powered classroom feedback platform designed to help teachers understand stud
 
 A web-based application designed to help users create structured and professional resumes.
 
-<b>Tech:</b> HTML • CSS • JavaScript
+<b>Tech:</b><br>
+HTML • CSS • JavaScript
+
+<br>
+
+<a href="https://github.com/Dharshan-01/Smart_resume_builder">
+View Project →
+</a>
 
 </td>
 </tr>
@@ -171,22 +208,52 @@ A web-based application designed to help users create structured and professiona
 
 ---
 
-## 📊 GitHub Activity
+## 🐍 My Contribution Journey
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharshan-01&theme=react-dark&hide_border=true&area=true" width="95%" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Dharshan-01/Dharshan-01/output/github-contribution-grid-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Dharshan-01/Dharshan-01/output/github-contribution-grid-snake.svg">
+    <img
+      alt="GitHub Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/Dharshan-01/Dharshan-01/output/github-contribution-grid-snake.svg"
+      width="95%">
+  </picture>
+</p>
+
+<p align="center">
+  <i>🐍 A visual journey through my contributions</i>
 </p>
 
 ---
 
-## 📌 GitHub Profile
+## ⚡ What I'm Exploring
 
 <p align="center">
-  <a href="https://github.com/Dharshan-01">
-    <img src="https://img.shields.io/github/followers/Dharshan-01?label=Followers&style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/Dharshan-01?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View-181717?style=for-the-badge&logo=github" />
+
+<img src="https://img.shields.io/badge/Generative%20AI-Exploring-8A2BE2?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Agentic%20AI-Learning-FF6F00?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Building-3776AB?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Cloud-Azure-0078D4?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/MLOps-Exploring-2EA043?style=for-the-badge" />
+
+</p>
+
+---
+
+## 🏆 Coding & Learning
+
+<p align="center">
+  <a href="https://www.hackerrank.com">
+    <img src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
 
@@ -195,23 +262,27 @@ A web-based application designed to help users create structured and professiona
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dharshna-kumar-k-s">
-    LinkedIn
-  </a>
-  •
-  <a href="https://dharshnakumar-portfolio.vercel.app">
-    Portfolio
-  </a>
-  •
-  <a href="mailto:dharshan.dh1212@gmail.com">
-    Email
-  </a>
-  •
-  <a href="https://github.com/Dharshan-01">
-    GitHub
-  </a>
+
+<a href="https://www.linkedin.com/in/dharshna-kumar-k-s">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://dharshnakumar-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="mailto:dharshan.dh1212@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
+
+---
 
 <p align="center">
   <i>🚀 Building, learning, and shipping AI-powered solutions.</i>
+</p>
+
+<p align="center">
+  <b>⭐ If you find my work interesting, feel free to explore my repositories!</b>
 </p>
